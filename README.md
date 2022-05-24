@@ -46,7 +46,7 @@ Similarly import the other tables into HDFS.
 5. Open the file hiveQuery1.sql and rename the variable ```domain``` to the any state whose result is required.
 6. Run DoQuery.sh with the name of the csv file as argument
 ```
-$ ./DoQuery.sh Punjab
+$ ./DoQuery.sh OutputCsv
 ```
 Note: Make sure a directory is created for storing the CSV in the root directory. 
 
