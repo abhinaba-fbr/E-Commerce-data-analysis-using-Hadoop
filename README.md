@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1XdPbyAc9iWml0fPPNX91Yq3BRwkZAG2M
 Overview-
 ---------
 This project demonstrates how Hadoop and Hive can be used for processing e-commerce related big data, to generate useful insights, which can grow business stratergies. 
-Our Analysis is comparing the stocks and requirement of product in a specified domain, inorder to increase or decrease the stocks in that particular domain.
+Our Analysis is comparing the stocks and requirement of products in a specified domain, inorder to increase or decrease the stocks in that particular domain.
 
 1. We are using a business architecture where each Indian state has an warehouse locally.
 2. Total 26 state are considered and are also called domains.
